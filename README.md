@@ -1,3 +1,4 @@
+![Projeto de Portfólio]![Captura de tela 2023-11-02 105452](https://github.com/angelodesenvolvedor/Projeto_Pagina_estatica/assets/98216100/419d212d-a03e-4626-b244-ddae6d5c081a)
 # Projeto: Página Estática - Exemplo de Portfolio
 
 Este projeto foi desenvolvido como parte da última aula do Módulo HTML e CSS do curso Front-end da Ada Tech, e serve como um exemplo de um portfólio pessoal.
@@ -21,11 +22,7 @@ Aqui está uma representação visual das tecnologias utilizadas no projeto:
 
 Essas tecnologias foram essenciais para criar um portfólio atraente e funcional.
 
-## Imagem do Projeto
 
-Aqui está uma imagem que representa da aula :
-
-![Projeto de Portfólio]![Captura de tela 2023-11-02 105452](https://github.com/angelodesenvolvedor/Projeto_Pagina_estatica/assets/98216100/419d212d-a03e-4626-b244-ddae6d5c081a)
 
 
 
